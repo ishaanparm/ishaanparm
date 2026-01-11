@@ -3,7 +3,7 @@
 Computer Science Major @ Baruch (CUNY), finishing Dec 2026. I like turning messy data into clean, fast systems and shipping simple tools that save people time.
 
 - 💻 Interests: systems programming, data pipelines, ML basics, dashboards
-- 🧰 Languages/Tools: Python, SQL, HTML/CSS/JS, Tableau, Alteryx,C++
+- 🧰 Languages/Tools: Python, SQL, HTML/CSS/JS, Alteryx,C++
 - 📍 Brooklyn, NY
 - 🔗 [LinkedIn] https://www.linkedin.com/in/ishaan-parmar/
 
